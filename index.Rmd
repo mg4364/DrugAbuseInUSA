@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAMES HERE"
+title: "Analyzing Drug Abuse in USA"
+author: "Mridul Gupta (mg4364), Mahesh Jindal (mj3038)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
