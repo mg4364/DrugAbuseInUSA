@@ -3,7 +3,7 @@
 
 Introduction:
 
-America has been struggling with this issue for many years now. A recent documentary (released in May 2021) by HBO “The crime of the century” shed a new light on this crisis and talked about the role of the Sackler family which got us interested in the topic.Through this exploration and analysis we plan to find answers to the following:
+America has been struggling with the drug abuse problem for many years now. A recent documentary (released in May 2021) by HBO “The crime of the century” shed a new light on this crisis and talked about the role of the Sackler family which got us interested in the topic.Through this exploration and analysis we plan to find answers to the following:
 
 Question 1: What are the drug trends and variants available and how have they been shifted over the past few years?
 
